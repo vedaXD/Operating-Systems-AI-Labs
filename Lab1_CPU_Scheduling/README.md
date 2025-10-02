@@ -1,3 +1,18 @@
-# Lab 1: CPU Scheduling
+# Lab 1: CPU Scheduling Algorithms
 
-This lab focuses on various CPU scheduling algorithms and their implementations. Here you'll find starter code and instructions to develop your understanding of CPU scheduling techniques.
+## Overview
+Implement and analyze classic CPU scheduling algorithms:
+- First Come First Serve (FCFS)
+- Shortest Job First (SJF)
+- Round Robin (RR)
+- Priority Scheduling
+
+## Instructions
+- Fill in the starter code in `scheduling.py`.
+- Use the Copilot prompts in `Copilot_Prompts.md` to guide your coding and analysis.
+- Visualize Gantt charts and compute average waiting and turnaround times.
+
+## Submission
+- Completed code
+- Copilot Prompt Log
+- Reflection report
