@@ -1,1 +1,2 @@
-pytest
+# Basic dependencies for Operating Systems AI Labs
+# Students can add additional packages as needed for their implementations
